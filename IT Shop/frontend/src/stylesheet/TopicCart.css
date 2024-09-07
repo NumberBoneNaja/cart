@@ -1,0 +1,9 @@
+.Topic-Cart{
+    color: #FF2E63;
+    margin-top: 75px;
+    position: fixed;
+    width: 100vw;
+    /* border: red 1px solid; */
+    display: flex;
+    justify-content: center;
+}

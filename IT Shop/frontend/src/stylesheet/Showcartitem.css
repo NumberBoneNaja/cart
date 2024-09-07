@@ -1,0 +1,21 @@
+.container-showcartitem{
+   
+    /* border: green solid 1px; */
+    position: fixed;
+
+    margin-top: 155px;
+   
+        /* border: 1px solid red;     */
+    width: 59vw;
+    height: calc(100vw - 75px);
+    
+    position: fixed;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0px;
+    padding-left: 330px;
+    
+  
+}
